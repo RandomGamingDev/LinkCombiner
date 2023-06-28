@@ -4,7 +4,7 @@ A simple website for stuffing multiple links into one. It utilizes the # feature
 Here's the website: https://randomgamingdev.github.io/LinkCombiner/
 (btw you gotta include `http://` or `https://` or whatever header your URL uses or it will register it as a relative path and also browsers oftentimes stop websites from creating "pop-ups" so you'll have to disable that for the website)
 
-Basically, the URL parsers of modern browsersignore everything after the #, which means that we can store practically anything there and then read it using Javascript to achieve what's basically just a dynamic URL. This also means less expensive calculations on the actual server since all of the parsing stuff is being done on the client :D.
+Basically, the URL parsers of modern browsersignore everything after the #, which means that we can store practically anything there and then read it using Javascript to achieve what's basically just a dynamic URL. This also means less expensive calculations on the actual server since all of the parsing stuff is being done on the client :D. This also means that combined urls will ***never*** be deleted and this can also be used alongside a link minifier for smaller links!
 
 Simply enter the URLs (each one on a different line) and then press the button to generate the combined url, which you can then copy about of the alert to use in, for example a bookmark or shortcut!
 
