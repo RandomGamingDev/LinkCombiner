@@ -7,4 +7,4 @@ Simply enter the URLs (each one on a different line) and then press the button t
 
 Also, I was bored so I made a bit of pixel art for the website :D
 
-![welp ig it didn't load for u T_T](http://url/to/img.png]()](https://github.com/RandomGamingDev/LinkCombiner/blob/main/assets/SmilingComputer.png?raw=true)https://github.com/RandomGamingDev/LinkCombiner/blob/main/assets/SmilingComputer.png?raw=true)
+![welp ig it didn't load for u T_T](https://github.com/RandomGamingDev/LinkCombiner/blob/main/assets/SmilingComputer.png?raw=true)
