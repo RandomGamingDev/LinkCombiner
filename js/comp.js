@@ -11,5 +11,3 @@ console.log(urlsJSON);
 const urls = JSON.parse(urlsJSON);
 for (const url of urls)
   window.open(url, "_blank");
-window.focus();
-window.close();
