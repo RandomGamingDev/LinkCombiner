@@ -6,4 +6,4 @@ Basically, the URL parsers of modern browsersignore everything after the #, whic
 Simply enter the URLs (each one on a different line) and then press the button to generate the combined url, which you can then copy about of the alert to use in, for example a bookmark or shortcut!
 
 Also, I was bored so I made a bit of pixel art for the website :D
-![welp ig it didn't load for u T_T]([http://url/to/img.png](https://raw.githubusercontent.com/RandomGamingDev/LinkCombiner/main/assets/SmilingComputer.png)
+![welp ig it didn't load for u T_T]([http://url/to/img.png](https://github.com/RandomGamingDev/LinkCombiner/blob/main/assets/SmilingComputer.png?raw=true)
