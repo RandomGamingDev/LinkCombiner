@@ -9,7 +9,7 @@ urlsJSON = urlsJSON.replaceAll("%22", '"');
 
 console.log(urlsJSON);
 const urls = JSON.parse(urlsJSON);
+const lastURL = urls.pop();
 for (const url of urls)
   window.open(url, "_blank");
-
-window.close();
+window.open(lastURL, '_self');
